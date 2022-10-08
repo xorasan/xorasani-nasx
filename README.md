@@ -2,4 +2,4 @@
 font with special xorasani additions
 
 
-![preview](m3yna.jpg)  
+![preview](images/m3yna.jpg)  
